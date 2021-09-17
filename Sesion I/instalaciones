@@ -1,0 +1,17 @@
+1. Instalar dotnet
+    https://dotnet.microsoft.com/download
+2. Validar su correcta instalación
+    cmd
+    cd ..
+    cd ..
+    dotnet
+    dotnet --version
+3. Instalar el SQL Server Express 2019
+RECORDAR: 
+    32 bits -> SQL Server Express 2014
+    Win 7 ->  SQL Server Express 2017
+    Linux o Mac -> docker https://www.twilio.com/blog/using-sql-server-on-macos-with-docker
+4. Descargar SSMS
+https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15
+
+
